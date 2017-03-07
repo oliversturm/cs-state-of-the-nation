@@ -114,6 +114,7 @@
 
 * This presentation: 
   * https://oliversturm.github.io/cs-state-of-the-nation
+  * Deprettified content in pdf format: https://oliversturm.github.io/cs-state-of-the-nation/slidecontent.pdf
 
 ---
 
